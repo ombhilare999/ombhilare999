@@ -3,7 +3,6 @@
 <!--
 **ombhilare999/ombhilare999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Floating Point Architecture unit for FP nubmers using Verilog 
 - 🌱 I’m currently learning Verilog and VHDL.
