@@ -4,7 +4,7 @@
 **ombhilare999/ombhilare999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-- 🔭 I’m currently working on Floating Point Architecture unit for FP nubmers using Verilog 
+- 🔭 I’m currently working on my RISCV core
 - 🌱 I’m currently learning Verilog and VHDL.
 - 👯 I’m looking to collaborate on FPGA related projects, PCB designing.
 - 🤔 I’m looking for help with FPGA and HDL languages.
