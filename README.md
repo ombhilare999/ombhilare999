@@ -8,4 +8,5 @@ I was selected in Google Summer of Code 2021 (GSOC'21) with beagleboard org. I h
 I'm always open to Research opportunities in Computer Architecture, RTL Design, Verification and FPGA prototyping.
 
 - Check my resume for more details: [[RESUME]](https://omkarbhilare.tech/pdf/Omkar_Bhilare_Resume.pdf) 
+- Check my portfolio site: https://omkarbhilare.tech/
 - Contact me on oabhilare_b19@el.vjti.ac.in
